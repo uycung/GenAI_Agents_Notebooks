@@ -9,11 +9,11 @@ This repository contains Jupyter Notebook case studies showcasing the developmen
 ## Case Studies
 1.  **[Travel Planning Agent](notebooks/cs_travel_planning_agent.ipynb)**: This notebook demonstrates the development of an AI travel planning agent leveraging LangChain's tool integration and LangGraph's ability to orchestrate multi-step workflows.
 2.  **[Job Recommendation System](notebooks/cs_job_recommendation_system_with_embeddings.ipynb)**: This notebook showcases the development of a job recommendation system using vector datbases and similarity search.
+3. **[Meal Recommender Agent](notebooks/cs_meal_recommendation_agent.ipynb)**: This case study covers the design and implementation of an AI agent using LLM function calls and contextual user data (like preferences, location, and history) to generate personalized meal recommendations for an F&B platform.
 
 ## Technologies Used
 
-* LangChain
-* LangGraph
+* LangChain, LangGraph
 * LLM (Gemini, OpenAI, etc.)
 * Tools (Tavily Search, OpenWeatherMap, etc.)
 * Python
@@ -30,5 +30,5 @@ This repository contains Jupyter Notebook case studies showcasing the developmen
     cd notebooks
     ```
 3.  Install the required dependencies (if any).
-4.  Open the Jupyter Notebooks using Jupyter Notebook or supported IDE.
+4.  Open the Notebooks using Jupyter Notebook or supported IDE.
 5.  Run the cells in the notebooks.
